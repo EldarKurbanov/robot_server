@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/eldar/ros_workspace/src/robot_server/cmake-build-debug/devel/setup.sh

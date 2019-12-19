@@ -1,0 +1,8 @@
+prefix=/home/eldar/ros_workspace/src/robot_server/cmake-build-debug/devel
+
+Name: robot_server
+Description: Description of robot_server
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/eldar/ros_workspace/src/robot_server/cmake-build-debug/devel/lib 
+Requires: 
